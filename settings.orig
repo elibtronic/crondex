@@ -1,0 +1,6 @@
+#
+# Customize to taste
+# then rename to settings.py to continue
+
+DEBUG = True
+SEP = "/"
